@@ -1,0 +1,32 @@
+body {
+    background-color: burlywood;
+    color: black; 
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+  
+  
+}
+#myheader {
+    color: red;
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-decoration: underline;
+   text-align: center;
+  line-height: 55px;
+  padding: 25px;
+  margin: auto;
+  font-size: 60px;
+  border: 5px solid red;
+}
+h2 {
+    color: blue;
+  font-size: 30px;
+}
+p {
+  font-weight: bolder;
+  font-style: italic;
+  
+}
+.about {
+  margin: 100px;
+}
